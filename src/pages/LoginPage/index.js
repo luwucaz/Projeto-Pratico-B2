@@ -18,7 +18,9 @@ export default function LoginPage() {
         <TextInput placeholder="Email" style={styles.input} />
         <TextInput placeholder="Password" style={styles.input} />
         <TouchableOpacity style={styles.btn}>
-          <Text style={styles.btnTxt}>Login</Text>
+          <Link to={{ screen: "HomePage" }}>
+            <Text style={styles.btnTxt}>Login</Text>
+          </Link>
         </TouchableOpacity>
         <View style={styles.viewLinks}>
           <Link to={{ screen: "ForgotPasswordPage" }}>Esqueceu a senha? </Link>
