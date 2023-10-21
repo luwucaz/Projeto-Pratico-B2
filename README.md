@@ -29,5 +29,3 @@ Para executar o programa (lembre-se de selecionar a opção web com o botão W)
 ```
 npx expo start
 ```
-
-![imagem](https://i.imgur.com/y58DdJF.png)
