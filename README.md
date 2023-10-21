@@ -9,10 +9,12 @@
 ## Informações
 
 - Favor utilizar as dimensões de um Iphone 12 Pro
-  ![imagem](https://i.imgur.com/WRwRIhy.png)
+
+![imagem](https://i.imgur.com/WRwRIhy.png)
 
 - Para acessar a página de dashboard, clique no botão de Login.
-  ![imagem](https://i.imgur.com/dvF21jl.gif)
+
+![imagem](https://i.imgur.com/dvF21jl.gif)
 
 ## Comandos básicos
 
