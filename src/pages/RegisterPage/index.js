@@ -18,7 +18,7 @@ export default function RegisterPage() {
         <TextInput placeholder="Password" style={styles.input} />
         <TextInput placeholder="Confirm Password" style={styles.input} />
         <TouchableOpacity style={styles.btn}>
-          <Text style={styles.btnTxt}>Login</Text>
+          <Text style={styles.btnTxt}>Registrar</Text>
         </TouchableOpacity>
         <View style={styles.viewLinks}>
           <Link to={{ screen: "ForgotPasswordPage" }}>Esqueceu a senha? </Link>
